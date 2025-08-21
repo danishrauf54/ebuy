@@ -1,3 +1,9 @@
+## Live Demo
+Check out the live site here: (https://danishrauf54.github.io/ebuy/)
+
+
+
+
 # E-commerce Project with Complete Authentication & Shopping Cart System
 
 This project includes a full-stack e-commerce application with complete user authentication functionality, shopping cart management, and checkout process including login, signup, user profiles, secure routes, and full shopping experience.
